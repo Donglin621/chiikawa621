@@ -1,0 +1,60 @@
+@charset "utf-8";
+#page2 div img {
+    width: auto;
+    height: auto;
+    max-width: 50%;
+    float: left;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.ui-grid-a .ui-block-a img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+.ui-grid-a .ui-block-b img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+.ui-grid-a .ui-block-a img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+.ui-grid-a .ui-block-b img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+.ui-grid-a .ui-block-a img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+.ui-grid-a .ui-block-b img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+.ui-grid-a .ui-block-a img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+.ui-grid-a .ui-block-b img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+#page5 p img {
+    width: auto;
+    height: auto;
+    max-width: 79%;
+    background-color: #FFFFFF;
+}
+div #carouselExampleIndicators1 .carousel-inner {
+    background-color: #FFEBEB;
+}
